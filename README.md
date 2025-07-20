@@ -12,6 +12,7 @@ The **SOC Analyst Learning Path** on Let's Defend is a hands-on, practical certi
 
 Each folder corresponds to a major section in the learning path. Inside, you’ll find:
 - Topic-wise notes in Markdown format
+- All quizes
 - Screenshots (where appropriate)
 - Lab walkthroughs and use-case breakdowns
 
