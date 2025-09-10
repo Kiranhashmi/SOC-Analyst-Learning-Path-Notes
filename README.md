@@ -5,7 +5,6 @@ Welcome to my repository documenting my learning journey through the **SOC Analy
 ---
 
 ## 🎯 About the Certification
-
 The **SOC Analyst Learning Path** on Let's Defend is a hands-on, practical certification designed to teach real-world skills required for a Security Operations Center (SOC) Analyst. It covers the use of SIEM tools, alert handling, malware analysis, incident response, and threat intelligence—all in a simulated enterprise environment.
 
 ---
@@ -19,7 +18,6 @@ Each folder corresponds to a major section in the learning path. Inside, you’l
 ---
 
 ## 📚 Topics Covered
-
 - Understanding SOC Roles & Responsibilities
 - Log Sources and Analysis (Windows, Linux, Network Devices)
 - Working with SIEM Platforms
@@ -30,20 +28,12 @@ Each folder corresponds to a major section in the learning path. Inside, you’l
 
 ---
 
-## 🛠 Tools Used
-
-- Let's Defend Platform
-- SIEM tools (e.g., Wazuh, Splunk)
-- Wireshark
-- Procmon
-- VirusTotal, Any.Run
-- MITRE ATT&CK Navigator
-
----
-
 ## 🚀 Progress
 
 I’m updating this repository as I move forward through the learning path. Stay tuned for more content!
+edit : completed
+Heres my Certificate
+<img width="2000" height="1414" alt="SOC Learning Path CERT" src="https://github.com/user-attachments/assets/a09cc88c-c57a-4804-bd92-24bdf831a332" />
 
 ---
 
@@ -66,5 +56,6 @@ While this repository is primarily for my own learning, feel free to suggest imp
 
 ---
 
+##    Contact:
 
-
+Email : kiran.hashmi.isb@gmail.com
